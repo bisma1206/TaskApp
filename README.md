@@ -22,7 +22,7 @@
 
 ---
 
-🧠 Usage Instructions
+**🧠 Usage Instructions**
 
 Type your task details in the form and click "Add Task"
 
@@ -34,7 +34,7 @@ Click "Delete" to remove the task
 
 ---
 
-🤝 Contributing
+**🤝 Contributing**
 
 Pull requests are welcome! Feel free to fork this repo and increase the app’s functionalities or design.
 
